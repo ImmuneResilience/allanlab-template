@@ -3,7 +3,7 @@ title: "ImmuneResilience - Publications"
 layout: gridlay
 excerpt: "ImmRes -- Publications."
 sitemap: false
-permalink: /projects/
+permalink: /publications/
 ---
 
 

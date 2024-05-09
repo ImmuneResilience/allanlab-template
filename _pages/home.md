@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-**We're back in Canada!** After a few beautiful years in Perth, Australia, with the Telethon Kids Institute, we are back to Canada and have joined Dalhousie University's Dept of Microbiology & Immunology in Halifax, Nova Scotia, Canada.
+**Welcome to our new website!**Be patient - it is developing.   
+
+After a few beautiful years in Perth, Australia, with the Telethon Kids Institute, we are back to Canada and have joined Dalhousie University's Dept of Microbiology & Immunology in Halifax, Nova Scotia, Canada.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
