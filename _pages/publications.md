@@ -1,13 +1,13 @@
 ---
-title: "ImmuneResilience - Projects"
+title: "ImmuneResilience - Publications"
 layout: gridlay
-excerpt: "ImmRes -- Projects."
+excerpt: "ImmRes -- Publications."
 sitemap: false
 permalink: /projects/
 ---
 
 
-# Projects
+# Selected Publications
 
 
 {% assign number_printed = 0 %}

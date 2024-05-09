@@ -1,9 +1,9 @@
-- title: "A mark of success: the skin reaction to BCG and child health"
-  image: insitu.png
-  description: While BCG protects newborns from sepis by expanding neutrophils, we don't know exactly how it does this. We think that the answers lies in the skin, or local responses to BCG vaccination. We are using Spatial transcriptomics to learn more.
-  authors: In collaboration with the the Bandim Health Project, Ole Baek, Fred Shaltz-Buccholzer, Amrit Singh, Casey Shannon, Scott Tebbutt
+- title: "BCG vaccination-induced emergency granulopoiesis provides rapid protection from neonatal sepsis"
+  image: bcg_str.png
+  description: BCG reduces risk for all-cause mortality among newborns by 50%! But the mechanisms were unknown. So we went to work sorting it out.  It's the neutrophils.
+  authors: Byron Brook, Danny Harbeson, Casey Shannon, Bing Cai...Tobias R. Kollmann & Nelly Amenyogbe
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0022283623002565?via%3Dihub
-    display: See here for our paper on BCG and EG
+    url: https://www.science.org/doi/10.1126/scitranslmed.aax4517
+    display: Brook B. et al. Sci Trans Med 2020
     highlight: 1
-    news1: See also [our review] (https://www.sciencedirect.com/science/article/pii/S0022283623002565?via%3Dihub) for our review on mechanisms
+    news1: See also [This New Scientist Article] (https://www.newscientist.com/article/2242866-bcg-vaccine-helps-fight-infections-by-boosting-immune-cell-production/)
