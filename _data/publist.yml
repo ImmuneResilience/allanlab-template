@@ -1,3 +1,4 @@
+
 - title: "BCG vaccination-induced emergency granulopoiesis provides rapid protection from neonatal sepsis"
   image: bcg_str.png
   description: BCG reduces risk for all-cause mortality among newborns by 50%! But the mechanisms were unknown. So we went to work sorting it out.  It's the neutrophils.
@@ -5,5 +6,7 @@
   link:
     url: https://www.science.org/doi/10.1126/scitranslmed.aax4517
     display: Brook B. et al. Sci Trans Med 2020
-    highlight: 1
-    news1: See also [This New Scientist Article] (https://www.newscientist.com/article/2242866-bcg-vaccine-helps-fight-infections-by-boosting-immune-cell-production/)
+  highlight: 1
+  news1: See also [This New Scientist Article] (https://www.newscientist.com/article/2242866-bcg-vaccine-helps-fight-infections-by-boosting-immune-cell-production/)
+
+
