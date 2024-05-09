@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "ImmuneResilience @ DAL"
 sitemap: false
 permalink: /allnews.html
 ---
