@@ -6,8 +6,6 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
-
 
 ## Halifax
 Coming soon!
@@ -53,10 +51,5 @@ Coming soon!
 {% endif %}
 
 <p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
 
 
