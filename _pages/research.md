@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Research"
+title: "Immune Resilience - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "ImmRes -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
+Watch this space!
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
