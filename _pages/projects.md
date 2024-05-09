@@ -1,7 +1,7 @@
 ---
-title: "ImmuneResilience - Publications"
+title: "ImmuneResilience - Projects"
 layout: gridlay
-excerpt: "ImmRes -- Publications."
+excerpt: "ImmRes -- Projects."
 sitemap: false
 permalink: /projects/
 ---
