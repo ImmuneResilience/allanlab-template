@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are growing! We have key projects that can be suitable either for a PhD student or a Post Doc. For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work at one of our African sites. Please read the instructions below carefully!**
 
 
 ### Current available projects
