@@ -36,7 +36,7 @@ Site visit with the Maternal Probiotics study team
 
 # Bissau
 
-A beutiful view from the Bigajos
+A beautiful view from the Bijagos
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/temkubali.jpg" width="60%">
 </figure>
