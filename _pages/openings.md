@@ -13,7 +13,7 @@ permalink: /vacancies
 
 ### Current available projects
 
-You find the past job openings here:
+Find current opportunities here:
 [BCG In Situ]({{ site.baseurl }}/downloads/ImmuneResilience_PhD or PostDoc_BCGInSitu.pdf),
 [Fuel for Survival]({{ site.baseurl }}/downloads/ImmuneResilience_PhD or PostDoc_FFS.pdf)
 
