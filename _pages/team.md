@@ -74,8 +74,6 @@ permalink: /team/
 {% endif %}
 
 
-
-
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -90,38 +88,6 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Visitors
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_visitors %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Info: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -173,6 +139,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+
 ## Visitors
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_visitors %}
@@ -186,7 +153,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> Info: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -204,7 +171,6 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 
 # Collaborators
 {% assign number_printed = 0 %}
