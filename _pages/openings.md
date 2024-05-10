@@ -8,7 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-**We are growing! We have key projects that can be suitable either for a PhD student or a Post Doc. For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work at one of our African sites. Please read the instructions below carefully!**
+**We are growing! We have key projects that can be suitable either for PhD studens or Post Docs. We highly welcome applicants from diverse gender identities, ethnicities, lived experiences, and backgrounds. Our goal is to build a diverse team where everyone can thrive**
+
+For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work at one of our African sites. **Please read the instructions below carefully!**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 60%; float: center; margin: 0px"}
 

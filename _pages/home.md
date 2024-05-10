@@ -10,6 +10,7 @@ permalink: /
 
 We hope you stay a while. Be patient - it is developing.   
 
+
 After a few beautiful years in Perth, Australia, with the Telethon Kids Institute, we are back to Canada and have joined Dalhousie University's Dept of Microbiology & Immunology in Halifax, Nova Scotia, Canada.
 
 
@@ -58,8 +59,6 @@ After a few beautiful years in Perth, Australia, with the Telethon Kids Institut
 
 *We acknowledge that we are in Mi'kma'ki, the ancestral and unceded territory of the Mi'kmaq People and pay respect to the wisdom of the Mi'lmaq People, and their Elders past and present.*
 
-## Who are we?
-We are located within the [Canadian Centre for Vaccinology](https://centerforvaccinology.ca/), and are within the [I3V Wave Research Cluster](https://dalhousiei3v.com/) at [Dalhousie University](https://www.dal.ca/) in Halifax, Canada. Our research team focuses on finding feasible and low-cost interventions to lessen the burden of infectious disease in pregnancy and in infancyy - towards better health for mothers and their babies. Immune Resilience was started by Dr. Nelly Amenyogbe, who works in close partnership on many things with Prof. Tobias Kollmann. 
 
 ## Why Immune Resilience?
 
