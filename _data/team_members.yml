@@ -7,8 +7,10 @@
   education2: PhD Experimental Medicine with <a
     href="https://biodiversity.ubc.ca/people/faculty/bill-mohn"> W. Mohn</a>,
     UBC, 2020
-  education3: PostDoc, [Telethon Kids Institute](https://www.telethonkids.org.au/contact-us/our-people/a/nelly-amenyogbe/), Perth, Australia</a>
-  education4: Find me on [LinkedIn](https://www.linkedin.com/in/nelly-amenyogbe-a26bb779/). X.com @nelly_amenyogbe
+  education3: PostDoc, <a
+    href = "https://www.telethonkids.org.au/contact-us/our-people/a/nelly-amenyogbe/">Telethon Kids Institute</a>, Perth, Australia
+  education4: Find me on <a
+    href=:"https://www.linkedin.com/in/nelly-amenyogbe-a26bb779/">Linkedin</a>, X.com @nelly_amenyogbe
 - name: Tobias R. Kollmann
   photo: tobi.png
   info: Professor, Microbiology & Immunology
