@@ -17,7 +17,7 @@ Coming soon! We haven't been here very long...
 On the Rainbow Bride by PCH & TKI
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tea_art.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/team_art.jpg" width="60%">
 </figure>
 Everyone plays a part: putting together everyone's piece to get the picture.
 
@@ -39,12 +39,12 @@ Site visit with the Maternal Probiotics study team
 A beutiful view from the Bigajos
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/temp2-2 bissauteam.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tmp2-2 bissauteam.jpg" width="60%">
 </figure>
 Our wonderful study team for our BCG InSitu study
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/temp2-2 tklabbissau.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tmp2-2 tklabbissau.jpg" width="60%">
 </figure>
 Prof. Kollmann tries to not get any sweat into the test tubes
 
