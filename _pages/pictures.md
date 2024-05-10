@@ -11,43 +11,45 @@ permalink: /pictures/
 Coming soon! We haven't been here very long...
 
 # Perth
+On the Rainbow Bride by PCH & TKI
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/rainbowbridge2.jpg" width="60%">
 </figure>
-On the Rainbow Bride by PCH & TKI
 
+Everyone plays a part: putting together everyone's piece to get the picture.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/team_art.jpg" width="60%">
 </figure>
-Everyone plays a part: putting together everyone's piece to get the picture.
 
+Nothing like spending the day randomizing 1300 frozen samples together.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/frostbite.jpg" width="60%">
 </figure>
-Nothing like spending the day randomizing 1300 frozen samples together.
 
 # Kintampo
+
+Site visit with the Maternal Probiotics study team
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/khrc_team.jpg" width="60%">
 </figure>
-Site visit with the Maternal Probiotics study team
+
 
 # Bissau
+
+A beutiful view from the Bigajos
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/temkubali.jpg" width="60%">
 </figure>
-A beutiful view from the Bigajos
 
+Our wonderful study team for our BCG InSitu study
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tmp2-2 bissauteam.jpg" width="60%">
 </figure>
-Our wonderful study team for our BCG InSitu study
 
+Prof. Kollmann tries to not get any sweat into the test tubes
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/tmp2-2 tklabbissau.jpg" width="60%">
 </figure>
-Prof. Kollmann tries to not get any sweat into the test tubes
-
 
 
 ## Gallery
