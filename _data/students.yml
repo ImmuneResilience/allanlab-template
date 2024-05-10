@@ -1,5 +1,5 @@
-#- name:
-#  photo: rock.jpg
+#- name: This could be you!
+#  photo: neut.png
 #  info:
 #  email:
 #  number_educ:
@@ -7,5 +7,9 @@
 #  education2:
 #  education3:
 #  education4:
+- name: This could be you!
+  photo: neut.png
+
+
 
 
