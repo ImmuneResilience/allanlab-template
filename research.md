@@ -13,14 +13,15 @@ Bacille Calmette Guerin (BCG; a live vaccine containing attenuated Mycobacterium
 
 ### BCG Insitu: Untangling the link between skin reactions to BCG vaccination and improved newborn health outcomes
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/bcg_route.png){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bcg_route.png){: style="width: 80%; float: center; margin: 0px"}
+
 We have not identified how BCG initiates the production of G-CSF: which molecular sensors are used, and which cells mount this initial response. Also, why BCG induces G-CSF and EG in newborns, but not in adults is also a mystery. Given that BCG is given into the skin as an intradermal injection, the answer likely lies in this tissue. See our [Vacancies](https://immuneresilience.github.io/vacancies) if you would like to work on this!
 
 ### Fuel for Survival: metabolic interventions to prevent neonatal sepsis
 
 Of all children that die in the first 5 years of life, half are newborns. Sepsis, a host response to systemic microbial infection, is a leading cause. While vaccines have eliminated a substantial burden of severe infection among older children, most are not given to neonates, and the time required to mount an adaptive immune make them ineffective for neonatal infection prevention. With this, therapies that broadly enhance host resilience to infection, that could work quickly while being feasible to implement in low-resource settings are most likely to make a difference. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/helpfrommom.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/helpfrommom.png){: style="width: 300px; float: left; margin: 0px  10px"}
 Given that not all newborns benefit from BCG vaccination, we hypothesize that this is because immune boosters like BCG need "fuel" to work. [Robust data](https://www.sciencedirect.com/science/article/pii/S0002916523135349?via%3Dihub) from human studies had found that newborns that are not fed colostrum, the first breast milk, within an hour of birth are more likely to die from infectious disease. [Research](https://onlinelibrary.wiley.com/doi/10.1111/all.16054) by our colleage Valerie Verhasselt also demonstrated the critical role of colostrum in newborn immune health. Given the strong relationship between nutrition and immune responses, we are now investigating how there critical first feeds impact on neonatal sepsis and the response to BCG. See our [Vacancies](https://immuneresilience.github.io/vacancies) if you would like to work on this!
 
 
