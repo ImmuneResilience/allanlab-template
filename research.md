@@ -17,11 +17,25 @@ Bacille Calmette Guerin (BCG; a live vaccine containing attenuated Mycobacterium
 
 We have not identified how BCG initiates the production of G-CSF: which molecular sensors are used, and which cells mount this initial response. Also, why BCG induces G-CSF and EG in newborns, but not in adults is also a mystery. Given that BCG is given into the skin as an intradermal injection, the answer likely lies in this tissue. See our [Vacancies](https://immuneresilience.github.io/vacancies) if you would like to work on this!
 
-### Fuel for Survival: metabolic interventions to prevent neonatal sepsis
+## Fuel for Survival: metabolic interventions to prevent neonatal sepsis
 
 Of all children that die in the first 5 years of life, half are newborns. Sepsis, a host response to systemic microbial infection, is a leading cause. While vaccines have eliminated a substantial burden of severe infection among older children, most are not given to neonates, and the time required to mount an adaptive immune make them ineffective for neonatal infection prevention. With this, therapies that broadly enhance host resilience to infection, that could work quickly while being feasible to implement in low-resource settings are most likely to make a difference. 
 
+### Fuelling granulopoesis
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/helpfrommom.png){: style="width: 300px; float: left; margin: 0px  10px"}
 Given that not all newborns benefit from BCG vaccination, we hypothesize that this is because immune boosters like BCG need "fuel" to work. [Robust data](https://www.sciencedirect.com/science/article/pii/S0002916523135349?via%3Dihub) from human studies had found that newborns that are not fed colostrum, the first breast milk, within an hour of birth are more likely to die from infectious disease. [Research](https://onlinelibrary.wiley.com/doi/10.1111/all.16054) by our colleage Valerie Verhasselt also demonstrated the critical role of colostrum in newborn immune health. Given the strong relationship between nutrition and immune responses, we are now investigating how there critical first feeds impact on neonatal sepsis and the response to BCG. See our [Vacancies](https://immuneresilience.github.io/vacancies) if you would like to work on this!
 
+## The microbiome in early life
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/bac_taxa.png){: style="width: 80%; float: center; margin: 0px"}
+
+The gut microbiome is a like another organ in our bodies, with microbial communities performing much of the work to keep us healthy. The microbiome likely plays a critical role in establishing immune resilience, and may in part shape your responses to infections and vaccinations. We hypothesized that early life is an especially critial [window of opportunity](https://www.frontiersin.org/articles/10.3389/fped.2017.00111/full) to optimize microbial community assembly for long-term health benefits. Indeed, some of our collabrative work found that Canadian infants that went on to develop atopy at 3 years of age had lower levels of [butyrate-producing bacteria](https://www.sciencedirect.com/science/article/pii/S0091674919308917?via%3Dihub) in their stool at 3 months, but not at one year of age. Our work on the microbiome involves finding associations between the microbiome and immune health (including responses to BCG vaccination), and to determine whether probiotics given early in life can improve newborn infectious outcomes.
+
+### Ontogeny of the newborn microbiome in the first week of life
+
+We work with the Expanded Program of Immunization Consortium; [EPIC](https://www.frontiersin.org/articles/10.3389/fped.2020.00197/full), an NIH-funded study enrolling over 700 newborn babies in the Gambia and Papue New Guinea. By measuring the gut microbiome of these babies during the first week of life using shallow-shotgun metagenomics, we will be able to determine the main drivers of microbial ontogeny in the newborn period, how host factors such as newborn feeding impact on this development, and how the microbiome in turn may impact responses to BCG vaccination or predict onset of neonatal sepsis.
+
+### Maternal Probiotics for neonatal colonization
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/lp.png){: style="width: 300px; float: right; margin: 0px  10px"}
+Probiotics have a long and complex history. However, one of the most promising studies showing possible benefits to reduce newborn infection [showed](https://www.nature.com/articles/nature23480) that giving newborns *L. plantarum* at birth dramatically reduced the risk for sepsis.  However, giving probiotics directly to newborns is not always feasible. Together with our colleages from the [KHRC](https://kintampo-hrc.org/), we are testing the feasibility and safety of providing *L. plantarum* directly to mothers during the 3rd trimester of pregnancy in Rural Ghana. Metagenomic analysis of maternal and neonatal stool samples will also reveal whether the introduction of this [nomadic microbe](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.712236/full) will alter the composition or functional capacity of their microbiomes.
