@@ -7,7 +7,8 @@ permalink: /
 ---
 
 **Welcome to our new website!**
-Be patient - it is developing.   
+
+We hope you stay a while. Be patient - it is developing.   
 
 After a few beautiful years in Perth, Australia, with the Telethon Kids Institute, we are back to Canada and have joined Dalhousie University's Dept of Microbiology & Immunology in Halifax, Nova Scotia, Canada.
 
@@ -55,8 +56,15 @@ After a few beautiful years in Perth, Australia, with the Telethon Kids Institut
   </a>
 </div>
 
+*We acknowledge that we are in Mi'kma'ki, the ancestral and unceded territory of the Mi'kmaq People and pay respect to the wisdom of the Mi'lmaq People, and their Elders past and present.*
 
-We are located within the [Canadian Centre for Vaccinology](https://centerforvaccinology.ca/), and are within the [I3V Wave Research Cluster](https://dalhousiei3v.com/).
+## Who are we?
+We are located within the [Canadian Centre for Vaccinology](https://centerforvaccinology.ca/), and are within the [I3V Wave Research Cluster](https://dalhousiei3v.com/). Our research team focuses on finding feasible and low-cost interventions to lessen the burden of infectious disease in pregnancy and in infnacy - towards better health for mothers and ther babies. Immune Resilience was started by Dr. Nelly Amenyogbe, who works in close partnership on many things with Prof. Tobias Kollmann. 
+
+## Why Immune Resilience?
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/smile.png){: style="width: 250px; float: left; margin: 0px  10px"}
+Because we are approaching our infectious disease research program from a host-centered approach. It's not that microbes haven't figured out how to cause trouble, but that we think we have not spent enough time understanding why some hosts seem to be more *resilient* to infectious diseases. We call this Immune Resilience, and think that finding ways to improve maternal-newborn health means understanding the needs of the host, and set them up for success. For example, we among others don't think newnborns are "immature"; See [here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2018.01077/full), but rather that their immune systems is well-adapted to their life stage; see [here](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2018.01918/full).
 
  **We are  building our team! Interested in joining us as a PhD or Post Doc?  See vacancies and project details** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 

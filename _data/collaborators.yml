@@ -1,4 +1,19 @@
 - name: The Amy Lee Lab
   photo: leelab.png
   duration: We have been working with Assistant Professor Amy Lee since she was a post doc at UBC, and glad that we are still in it together trying to solve the riddles of neonatal sepsis
-  info: visit her lab website at sou-lee-lab.github.io/LeeLab_Webpage
+  info: visit her [lab website](https://sfu-lee-lab.github.io/Lee_Lab_Webpage/)
+  
+  - name: The Bandim Health Project
+  photo: bhp.png
+  duration: The BHP is the birthplace of vaccine non-specific effects. Led by Peter Aaby and Christine Stabell Benn, we always look forward to field work in Bissau.
+  info: Visit their [website](https://www.bandim.org/)
+
+  - name: Genomics at the MRC Unit, the Gambia
+  photo: mrc-gm.png
+  duration: The Genomics core is led by Dr. Abdul Sesay, and hosts a vibrat team of promising informaticians. We are thrilled to exchange knowlede and ideas, and work towards solutions to maternal-infant health together.
+  info: Visit the MRC Unit [website](https://www.lshtm.ac.uk/research/units/mrc-gambia)
+  
+    - name: Kintampo Health Research Centre, Ghana
+  photo: khrc.png
+  duration: We have been working with the KHRC since 2016 on the early life microbiome and probiotics to reduce the burden of newborn infections.
+  info: Visit the KHRC [website](https://kintampo-hrc.org/)

@@ -7,6 +7,33 @@
     url: https://www.science.org/doi/10.1126/scitranslmed.aax4517
     display: Brook B. et al. Sci Trans Med 2020
   highlight: 1
-  news1: See [The New Scientist](https://www.newscientist.com/article/2242866-bcg-vaccine-helps-fight-infections-by-boosting-immune-cell-production/) by Layal Liverpool.
+  news1: See [this New Scientist article](https://www.newscientist.com/article/2242866-bcg-vaccine-helps-fight-infections-by-boosting-immune-cell-production/) by Layal Liverpool.
+  
+  - title: "Dynamic molecular changes during the first week of human life follow a robust developmental trajectory"
+  image: natcom.png
+  description: Newborns might not look like they're doing much, there there are massive immune developments happening under the hood. Here we find that these developments are remarkably similar across diverse populations.
+  authors: Amy H. Lee, Casey P. Shannon, Nelly Amenyogbe, Tue B. Bennike, Joann Diray-Arce, Olubykola T. Idoko...Peter C. Richmond, Rebecca Ford, The EPIC Consortium & Tobias R. Kollmann
+  link:
+    url: https://www.nature.com/articles/s41467-019-08794-x
+    display: Lee et al. Nat Comm 2019.
+  highlight: 1
+  news1: See [this CBC news article](https://www.cbc.ca/news/health/newborns-immunology-health-vaccines-ubc-blood-babies-1.5058192) by Marcy Cutter.
 
+  - title: "Biogeography of the Relationship between the Child Gut Microbiome and Innate Immune System"
+  image: biogeography.png
+  description: From roughly 2006, as the microbiome field took off, we gained awareness of its' profound impact on our immune health. In this paper we explored correlations between the microbiome and systemic immune function in children around the world.
+  authors: Nelly Amenyogbe, Pedro Dimitriu, Kinga K. Smolen, Eric M. Brown, Casey P. Shannon...William W. Mohn
+  link:
+    url: https://journals.asm.org/doi/10.1128/mbio.03079-20
+    display: Amenyogbe et al. mBio 2019.
+  highlight: 1
+  
+    - title: "Energy Demands of Early Life Drive a Disease Tolerant Phenotype and Dictate Outcome in Neonatal Bacterial Sepsis"
+  image: immaturitymyth.png
+  description: Newborns have long been described as immunologically "immature". We disagree. In this review, we propose that newborn immunity is well-adapted to the metabolic demands of this life stage. Finding ways to improve newborn health means we need to keep this at the forefront.
+  authors: Danny Haerbeson, Freddy Francis, Winnie Bao, Nelly Amenyogbe, Tobias R. Kollmann
+  link:
+    url: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2018.01918/full
+    display: Harbeson et al. Front Immunol 2018.
+  highlight: 1
 
