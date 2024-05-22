@@ -1,3 +1,10 @@
+- title: "Angiogenesis-associated pathways play critical roles in neonatal sepsis outcomes"
+  image: ang_graphic.png
+  description: Why are some neonatal sepsis outcomes better than others?  Seems like angiogenesis is a big part of the story.
+  authors: Mario Fidanza, Julie Hibbert, Erica Acton, Danny Harbeson...Tobias Kollmann, Nelly Amenyogbe & Amy H. Lee
+  link:
+    url: https://www.nature.com/articles/s41598-024-62195-9
+    display: Fidanza et al. Scientific Reports 2024
 - title: "BCG vaccination-induced emergency granulopoiesis provides rapid protection from neonatal sepsis"
   image: bcg_str.png
   description: BCG reduces risk for all-cause mortality among newborns by 50%! But the mechanisms were unknown. So we went to work sorting it out.  It's the neutrophils.
