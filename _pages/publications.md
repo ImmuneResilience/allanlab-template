@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Selected Publications
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1DGzc6AD01mcg1/bibliography/public/).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1DGzc6AD01mcg1/bibliography/public/).**
 
 
 {% assign number_printed = 0 %}
