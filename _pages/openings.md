@@ -15,15 +15,15 @@ For each project, there are diverse roles from wet bench science to bioinformati
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 60%; float: center; margin: 0px"}
 
 
-### Current available projects
+## Current available projects
 
-Find current opportunities here:
-[BCG In Situ]({{ site.baseurl }}/downloads/ImmuneResilience_PhD or PostDoc_BCGInSitu.pdf),
-[Fuel for Survival]({{ site.baseurl }}/downloads/ImmuneResilience_PhD or PostDoc_FFS.pdf)
+The outcome of newborn infection is determined within the first few hours of life. Low-cost interventions like colostrum feeding and immune boosting can provide fuel for survival, but via largely unknown mechanisms – meaning that we can’t use these interventions to their fullest potential. Identifying these mechanisms – our mission - can prevent millions of deaths and disabilities. To achieve our mission, we use the tools of systems biology, multi-omic human studies, and preclinical models to drive our projects forward while being connected to a global team of researchers. We have funding for PhD students and post-doctoral fellows. Interested? Get in touch.
+Find more information here here:
+[Fuel for Survival]({{ site.baseurl }}/downloads/FFS_PhD_or_PostDoc.pdf)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/sunset.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:nelly.ameyogbe@dal.ca). State briefly why you are interested, what projects you are interested in working on, and attach a CV, including information about the grades you had as an undergraduate. **Important**: please insert _"ImmRes PhD"_ or _"ImmRes Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### Application Instructions
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:nelly.ameyogbe@dal.ca) and (mailto:tkollm@mac.com). State briefly why you are interested, what projects you are interested in working on, and attach a CV, including information about the grades you had as an undergraduate. Please include a cover letter describing why you would like to work with us, and why you'd make a great addition to our team. **Important**: please insert _"ImmRes PhD"_ or _"ImmRes Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. 
