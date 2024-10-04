@@ -12,7 +12,7 @@ permalink: /vacancies
 
 For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work at one of our African sites. **Please read the instructions below carefully!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 60%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 50%; float: left; margin: 0px"}
 
 
 ## Current available project: Fuel for Survival (PhD and PDF)
@@ -24,6 +24,6 @@ Find more information here here:
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/sunset.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
 ### Application Instructions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:nelly.ameyogbe@dal.ca) and (mailto:tkollm@mac.com). State briefly why you are interested, what projects you are interested in working on, and attach a CV, including information about the grades you had as an undergraduate. Please include a cover letter describing why you would like to work with us, and why you'd make a great addition to our team. **Important**: please insert _"ImmRes PhD"_ or _"ImmRes Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send us an email [here](mailto:nelly.ameyogbe@dal.ca) and [here](mailto:tkollm@mac.com). State briefly why you are interested, what projects you are interested in working on, and attach a CV, including information about the grades you had as an undergraduate. Please include a cover letter describing why you would like to work with us, and why you'd make a great addition to our team. **Important**: please insert _"ImmRes PhD"_ or _"ImmRes Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. 
