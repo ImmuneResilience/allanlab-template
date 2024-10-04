@@ -12,7 +12,7 @@ permalink: /vacancies
 
 For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work at one of our African sites. **Please read the instructions below carefully!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 50%; float: left; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 50%; float: left; margin: 10px 5px"}
 
 
 ## Current available project: Fuel for Survival (PhD and PDF)
