@@ -23,6 +23,7 @@ Find more information here here:
 
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/sunset.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
+
 ### Application Instructions
 If you are interested in working with us as a PhD student or postdoc, please send us an email [here](mailto:nelly.ameyogbe@dal.ca) and [here](mailto:tkollm@mac.com). State briefly why you are interested, what projects you are interested in working on, and attach a CV, including information about the grades you had as an undergraduate. Please include a cover letter describing why you would like to work with us, and why you'd make a great addition to our team. **Important**: please insert _"ImmRes PhD"_ or _"ImmRes Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
