@@ -15,7 +15,7 @@ For each project, there are diverse roles from wet bench science to bioinformati
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 60%; float: center; margin: 0px"}
 
 
-## Current available projects
+## Current available project: Fuel for Survival (PhD and PDF)
 
 The outcome of newborn infection is determined within the first few hours of life. Low-cost interventions like colostrum feeding and immune boosting can provide fuel for survival, but via largely unknown mechanisms – meaning that we can’t use these interventions to their fullest potential. Identifying these mechanisms – our mission - can prevent millions of deaths and disabilities. To achieve our mission, we use the tools of systems biology, multi-omic human studies, and preclinical models to drive our projects forward while being connected to a global team of researchers. We have funding for PhD students and post-doctoral fellows. Interested? Get in touch.
 Find more information here here:
