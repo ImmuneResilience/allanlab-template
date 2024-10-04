@@ -8,13 +8,13 @@ permalink: /vacancies
 
 # Open positions
 
-![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 50%; float: left; margin: 10px 5px"}
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/natureswindow.png){: style="width: 30%; float: left; margin: 10px 10px"}
 
 **We are growing! We have key projects that can be suitable either for PhD students or Post Docs. We highly welcome applicants from diverse gender identities, ethnicities, lived experiences, and backgrounds. Our goal is to build a diverse team where everyone can thrive.**
 
-For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work at one of our African sites. **Please read the instructions below carefully!**
+For each project, there are diverse roles from wet bench science to bioinformatics, opportunities for exchanges and potentially field work. **Please read the instructions below carefully!**
 
-## Current available project: Fuel for Survival (PhD and PDF)
+## Current openings: Fuel for Survival (PhD and PDF)
 
 The outcome of newborn infection is determined within the first few hours of life. Low-cost interventions like colostrum feeding and immune boosting can provide fuel for survival, but via largely unknown mechanisms – meaning that we can’t use these interventions to their fullest potential. Identifying these mechanisms – our mission - can prevent millions of deaths and disabilities. To achieve our mission, we use the tools of systems biology, multi-omic human studies, and preclinical models to drive our projects forward while being connected to a global team of researchers. We have funding for PhD students and post-doctoral fellows. Interested? Get in touch.
 Find more information here here:
