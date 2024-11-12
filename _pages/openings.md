@@ -23,7 +23,7 @@ Find more information here here:
 ![]({{ site.url }}{{ site.baseurl }}/images/picpic/sunset.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
 ### Application Instructions
-If you are interested in working with us as a PhD student or postdoc, please send us an email [here](mailto:nelly.ameyogbe@dal.ca) and [here](mailto:tkollm@mac.com). State briefly:
+If you are interested in working with us as a PhD student or postdoc, please send us an email [here](mailto:nelly.amenyogbe@dal.ca) and [here](mailto:tkollm@mac.com). State briefly:
 * Why you are interested
 * What projects you are interested in working on
 * Attach a CV, including information about the grades you had as an undergraduate.
